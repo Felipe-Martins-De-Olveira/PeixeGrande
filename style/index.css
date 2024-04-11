@@ -1,0 +1,96 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+#horder{
+    width: 100%;
+    height: 60%;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: flex-end;  
+    gap: 250px;
+    
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+#peixao{
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-wrap: nowrap;
+}
+
+#logo1{
+    width: 30%;
+}
+
+#banner1{
+    width: 70%;
+}
+
+#Horder2{
+    margin: 10px;
+    padding-left: 50px;
+    display: flex;
+    
+}
+
+
+
+#horder3{
+    display: flex;
+}
+
+
+.titulosTextos{
+    width: 100%;
+    padding: 10px 0px;
+    background-color: black;
+    color: aliceblue;
+
+}
+
+
+#horder3 p, #horder3 h5{
+    margin: 20px;
+}
+
+
+#servicos{
+    width: 75%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+#Agenda{
+    width: 25%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+#rodape{
+    width: 100%;
+    padding: 10px 0px;
+    background-color: black;
+    color: aliceblue;
+}
+
+#rodape p{
+    margin-left: 20px;
+}
+
+h5{
+    font-size: 20px;
+}
+
+
+#mapa{
+    padding: 5px 0px;
+    margin: 40px;
+    background-color: gray;
+}
